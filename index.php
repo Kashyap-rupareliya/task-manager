@@ -1,8 +1,7 @@
 <?php
 
 require_once __DIR__ . "/config/databse.php";
-// Git branch practice
-
+// Change from conflict-practice branch
 
 /* ================= ADD TASK ================= */
 
