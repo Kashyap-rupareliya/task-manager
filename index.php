@@ -1,7 +1,9 @@
 <?php
 
 require_once __DIR__ . "/config/databse.php";
+
 // Change from MAIN branch
+// Change made from Branch A
 /* ================= ADD TASK ================= */
 
 if ($_SERVER["REQUEST_METHOD"] === "POST" && isset($_POST["add_task"])) {
