@@ -1,8 +1,7 @@
 <?php
 
 require_once __DIR__ . "/config/databse.php";
-// Change from conflict-practice branch
-
+// Change from MAIN branch
 /* ================= ADD TASK ================= */
 
 if ($_SERVER["REQUEST_METHOD"] === "POST" && isset($_POST["add_task"])) {
